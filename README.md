@@ -11,7 +11,7 @@
 
 I'm a passionate front-end developer currently focused on building user-friendly and responsive web interfaces.
 
-- 🎓 I’m a Software Engineering student at **Universidad Surcolombiana**.
+- 🎓 Software Engineer graduated from Universidad Surcolombiana, with a focus on front-end development.**.
 - 🌱 Constantly learning and improving my skills in **HTML, CSS, JavaScript**, and modern front-end tools.
 - 🔧 Interested in creating clean, scalable, and accessible web solutions.
 - 📌 Currently working on personal and academic projects to strengthen my portfolio.
@@ -29,13 +29,13 @@ I'm a passionate front-end developer currently focused on building user-friendly
 
 ## 📂 Projects
 
-### 💻 [Project Name Here]
-- **Description:** Brief explanation of the project, its purpose, and your role.
-- **Tech Stack:** Example: HTML, CSS, JavaScript
+### 💻 Inmero
+- **Description:** Design and Implementation of an Information System for Managing and Automating Agricultural Inventory Tasks.
+- **Tech Stack:** Example: React,HTML, CSS, JavaScript
 
-### 💻 [Project Name Here]
-- **Description:** Another project that demonstrates your front-end skills.
-- **Tech Stack:** Example: React, TailwindCSS
+### 💻 iMemory
+- **Description:** Development of a Mobile App for Visual Stimulation in Patients with Mild Alzheimer’s to Slow Cognitive Deterioration.
+- **Tech Stack:** Example: Flutter, HTML, CSS
 
 ---
 
