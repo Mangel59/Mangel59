@@ -31,11 +31,11 @@ I'm a passionate front-end developer currently focused on building user-friendly
 
 ### 💻 Inmero
 - **Description:** Design and Implementation of an Information System for Managing and Automating Agricultural Inventory Tasks.
-- **Tech Stack:** Example: React,HTML, CSS, JavaScript
+- **Tech Stack:** Example: React,HTML, CSS, JavaScript.
 
 ### 💻 iMemory
 - **Description:** Development of a Mobile App for Visual Stimulation in Patients with Mild Alzheimer’s to Slow Cognitive Deterioration.
-- **Tech Stack:** Example: Flutter, HTML, CSS
+- **Tech Stack:** Example: Flutter, HTML, CSS.
 
 ---
 
