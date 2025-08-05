@@ -11,7 +11,7 @@
 
 I'm a passionate front-end developer currently focused on building user-friendly and responsive web interfaces.
 
-- 🎓 Software Engineer graduated from Universidad Surcolombiana, with a focus on front-end development.**.
+- 🎓 Software Engineer graduated from Universidad Surcolombiana, with a focus on front-end development.
 - 🌱 Constantly learning and improving my skills in **HTML, CSS, JavaScript**, and modern front-end tools.
 - 🔧 Interested in creating clean, scalable, and accessible web solutions.
 - 📌 Currently working on personal and academic projects to strengthen my portfolio.
